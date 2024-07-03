@@ -38,5 +38,23 @@
     <ClInclude Include="Common.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="P01.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="P02.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="P03.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="P08.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="P09.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
+    <ClInclude Include="P10.h">
+      <Filter>Source Files\Solutions</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

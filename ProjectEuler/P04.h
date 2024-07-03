@@ -40,7 +40,7 @@ public:
 	P04()
 	{
 		int x = func(0, 999);
-		printf("%d\n\n", x);
+		printf("%d", x);
 	}
 };
 

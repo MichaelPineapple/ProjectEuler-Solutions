@@ -1,4 +1,5 @@
 #pragma once
 #include <iostream>
-#include <string.h>
+#include <string>
 #define string std::string
+#define bigInt long long unsigned int

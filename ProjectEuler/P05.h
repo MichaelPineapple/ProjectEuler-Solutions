@@ -23,7 +23,7 @@ public:
 	P05()
 	{
 		int x = func(20);
-		printf("%d\n\n", x);
+		printf("%d", x);
 	}
 };
 

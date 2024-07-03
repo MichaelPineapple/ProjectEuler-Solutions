@@ -131,10 +131,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common.h" />
+    <ClInclude Include="P01.h" />
+    <ClInclude Include="P02.h" />
+    <ClInclude Include="P03.h" />
     <ClInclude Include="P04.h" />
     <ClInclude Include="P05.h" />
     <ClInclude Include="P06.h" />
     <ClInclude Include="P07.h" />
+    <ClInclude Include="P08.h" />
+    <ClInclude Include="P09.h" />
+    <ClInclude Include="P10.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

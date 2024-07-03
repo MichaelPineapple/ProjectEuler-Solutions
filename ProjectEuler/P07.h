@@ -36,7 +36,7 @@ public:
 	P07()
 	{
 		int x = func(10001);
-		printf("%d\n\n", x);
+		printf("%d", x);
 	}
 };
 
